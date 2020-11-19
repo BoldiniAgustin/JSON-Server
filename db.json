@@ -1,0 +1,10 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Azur Lane",
+      "price": 10,
+      "img": "https://pht.qoo-static.com/Xvzm9AdC2rEpP_gcwoJWBD7BsDClyOhRZ5AmIyhZDKRRCB2k1hdovUqpLgEIcx5b1YY=w300-rw",
+    }
+  ]
+}
