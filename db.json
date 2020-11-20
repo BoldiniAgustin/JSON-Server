@@ -5,20 +5,14 @@
       "title": "Azur Lane Plus",
       "price": 10,
       "img": "https://pht.qoo-static.com/Xvzm9AdC2rEpP_gcwoJWBD7BsDClyOhRZ5AmIyhZDKRRCB2k1hdovUqpLgEIcx5b1YY=w300-rw",
-      "value": 4,
-      "tags": [{"weeb"},{"naval"}
-
-      ]
+      "value": 4
     },
     {
       "id": 2,
       "title": "Show By Rock",
       "price": 15,
       "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/99b0b4b2-1ec2-42db-8d72-689653733407/dajzw5l-cfa07ab6-73bf-4288-9987-6eb6edf41262.png",
-      "value": 5,
-      "tags": [{"music"},{"idols"}
-
-      ]
+      "value": 5
     }
   ]
 }
